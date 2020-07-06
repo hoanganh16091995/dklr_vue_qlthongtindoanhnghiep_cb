@@ -1,0 +1,304 @@
+{
+    "headersThongTinXuong": [
+      {
+        "text": "STT",
+        "align": "center",
+        "sortable": false,
+        "value": "stt",
+        "display": ""
+      },
+      {
+        "text": "Mã",
+        "align": "center",
+        "sortable": false,
+        "value": "maXuong",
+        "display": ""
+      },
+      {
+        "text": "Tên xưởng",
+        "align": "center",
+        "sortable": false,
+        "value": "tenXuong",
+        "display": ""
+      },
+      {
+        "text": "Địa chỉ",
+        "align": "center",
+        "sortable": false,
+        "value": "diaChi",
+        "display": ""
+      },
+      {
+        "text": "Email",
+        "align": "center",
+        "sortable": false,
+        "value": "lastUpdate",
+        "display": ""
+      },
+      {
+        "text": "Trạng thái",
+        "align": "center",
+        "sortable": false,
+        "value": "state",
+        "display": ""
+      },
+      {
+        "text": "Thao tác",
+        "align": "center",
+        "sortable": false,
+        "value": "action",
+        "display": ""
+      }
+    ],
+    "headersImport": [
+        {  
+           "text":"STT",
+           "align":"left",
+           "sortable":false
+        },
+        {  
+           "text":"Bảng chuyển đổi",
+           "align":"center",
+           "sortable":false,
+           "value":"tableConvert"
+        },
+        {  
+           "text":"Mô tả hạng mục chuyển đổi",
+           "align":"center",
+           "sortable":false,
+           "value":"mucDich"
+        },
+        {  
+           "text":"Bảng dữ liệu đích",
+           "align":"center",
+           "sortable":false,
+           "value":"tableSource"
+        },
+        {  
+           "text":"Bắt đầu từ hàng",
+           "align":"center",
+           "sortable":false,
+           "value":"startRow"
+        },
+        {  
+           "text":"Hàng cuối",
+           "align":"center",
+           "sortable":false,
+           "value":"endRow"
+        },
+        {  
+           "text":"Trạng thái",
+           "align":"center",
+           "sortable":false,
+           "value":"state"
+        },
+        {  
+           "text":"Thao tác",
+           "align":"center",
+           "sortable":false,
+           "value":"actions"
+        }
+    ],
+    "headersResultImport": [
+        {  
+           "text":"STT",
+           "align":"left",
+           "sortable":false
+        },
+        {  
+           "text":"Bảng chuyển đổi",
+           "align":"center",
+           "sortable":false,
+           "value":"tableConvert"
+        },
+        {  
+           "text":"Đã xử lý",
+           "align":"center",
+           "sortable":false,
+           "value":"done"
+        },
+        {  
+           "text":"Xử lý lỗi",
+           "align":"center",
+           "sortable":false,
+           "value":"error"
+        },
+        {  
+           "text":"Đọc dữ liệu",
+           "align":"center",
+           "sortable":false,
+           "value":"readData"
+        },
+        {  
+           "text":"Xem đổ dữ liệu",
+           "align":"center",
+           "sortable":false,
+           "value":"detail"
+        }
+    ],
+    "headersImportDetail": [
+        {  
+           "text":"STT",
+           "align":"left",
+           "sortable":false
+        },
+        {  
+           "text":"Trường dữ liệu nguồn",
+           "align":"center",
+           "sortable":false,
+           "value":"source"
+        },
+        {  
+           "text":"Trường dữ liệu đích",
+           "align":"center",
+           "sortable":false,
+           "value":"target"
+        }
+    ],
+    "headersThongTinDoanhNghiep_TrongNuoc": [
+      {
+        "text": "STT",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "MST",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Tên, địa chỉ cơ sở sản xuất <br> Cơ sở nhập khẩu",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Điện thoại <br> fax <br> email",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Người đại diện <br> chức danh",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Ghi chú",
+        "align": "center",
+        "sortable": false,
+        "value": "ghichu",
+        "display": ""
+      },
+      {
+        "text": "Thao tác",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      }
+    ],
+    "headersThongTinDoanhNghiep_Khoa_TrongNuoc": [
+      {
+        "text": "STT",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "MST",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Tên, địa chỉ cơ sở sản xuất <br> Cơ sở nhập khẩu",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Điện thoại <br> fax <br> email",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Người đại diện <br> chức danh",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Thông tin chung",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Lý do",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      },
+      {
+        "text": "Thao tác",
+        "align": "center",
+        "sortable": false,
+        "value": "name",
+        "display": ""
+      }
+    ],
+    "headersThongTinDoanhNghiep_NgoaiNuoc": [
+      {
+        "text": "STT",
+        "align": "center",
+        "sortable": false,
+        "value": "stt",
+        "display": ""
+      },
+      {
+        "text": " Mã CSSX/Nhà Xưởng",
+        "align": "center",
+        "sortable": false,
+        "value": "macssx",
+        "display": ""
+      },
+      {
+        "text": "Tên CSSX/Nhà Xưởng",
+        "align": "center",
+        "sortable": false,
+        "value": "tencssx",
+        "display": ""
+      },
+      {
+        "text": "Địa chỉ CSSX/Nhà Xưởng",
+        "align": "center",
+        "sortable": false,
+        "value": "diachicssx",
+        "display": ""
+      },
+      {
+        "text": "Thao tác",
+        "align": "center",
+        "sortable": false,
+        "value": "thaotac",
+        "display": ""
+      }
+    ]
+}
